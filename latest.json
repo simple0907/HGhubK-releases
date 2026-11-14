@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "published_at": "2026-11-15",
-  "notes": "1.0.6 更新：\n- 检查更新提示改为单条覆盖（正在检查更新…，结果覆盖它）\n- 更新来源默认改为镜像；设置持久化加固（升级不丢原有设置）\n- 新增本地收藏页，每部剧可取消收藏；观看历史可设置重开是否清空\n- 吃瓜视频可拖动进度/全屏；纯净模式全屏隐藏系统状态栏与底部菜单，顶部按钮避让状态栏\n- 离线缓存支持长按多选、全选、批量清理",
+  "notes": "1.0.7 加急更新：\n- 更新改为后台下载（锁屏/切后台继续），状态栏通知显示下载进度\n- 下载完成后弹窗确认是否安装，点“立即安装”再进系统安装界面（修复之前下载完直接闪退、且仍提示更新）\n- 安装改为系统主线程调起，失败自动回退浏览器下载",
   "android": {
-    "arm64": "https://github.com/simple0907/HGhubK-releases/releases/download/v1.0.6/HGhubK-1.0.6-arm64-release.apk"
+    "arm64": "https://github.com/simple0907/HGhubK-releases/releases/download/v1.0.7/HGhubK-1.0.7-arm64-release.apk"
   },
-  "sha256": "1dd4cc2594b1a5fa7fae948459095863db3f5383ed86d7a0ba8f6cd95ecfd3f0"
+  "sha256": "1444613044c31a318dd6b4848fdba46cc4a002d68274fbb2ab826980be3f63a3"
 }

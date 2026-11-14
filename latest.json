@@ -1,7 +1,7 @@
 {
-  "version": "1.1.2",
+  "version": "9.9.9",
   "published_at": "2026-11-15",
-  "notes": "1.1.2 更新：\n- 修复纯净模式无法隐藏顶部系统状态栏（改为原生沉浸，状态栏真正隐藏）\n- 修复纯净模式锁屏/解锁后手势失效、卡在纯净模式退不出（Android 不再用网页全屏，改系统沉浸）\n- 首次打开自动申请权限（通知权限 Android13+ / 安装未知应用），便于应用内更新\n- 修复锁定后解锁按钮不可见（保持原样式）\n- 我的页：观看历史/本地收藏改为一行切换，默认观看历史",
+  "notes": "升级测试(临时，测完还原为1.1.2)",
   "android": {
     "arm64": "https://github.com/simple0907/HGhubK-releases/releases/download/v1.1.2/HGhubK-1.1.2-arm64-release.apk"
   },

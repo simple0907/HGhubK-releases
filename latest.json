@@ -1,8 +1,9 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "published_at": "2026-11-15",
+  "notes": "1.0.3 更新：\n- 新增自动更新：设置→更新来源（自动/原站/镜像），每次打开自动检查，发现新版首页弹窗提示\n- 纯净模式：全屏并隐藏顶部状态栏\n- 重新打开保留上次观看位置\n- 主页不再自动刷新（本地缓存秒开）",
   "android": {
-    "arm64": "https://github.com/simple0907/HGhubK-releases/releases/download/v1.0.2/HGhubK-1.0.2-arm64-release.apk"
+    "arm64": "https://github.com/simple0907/HGhubK-releases/releases/download/v1.0.3/HGhubK-1.0.3-arm64-release.apk"
   },
-  "sha256": "9e3a1fbd43961cfbbd1da55bcd7b9ef6abd6a6f4c43b6403415f99af45bca3e1"
+  "sha256": "293c281f8cc81f8f70279ca2bca3768a9136915f28b8c7b47993b5e9d40a5dcc"
 }

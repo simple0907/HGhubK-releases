@@ -1,7 +1,6 @@
 {
   "version": "1.0.2",
   "published_at": "2026-11-15",
-  "notes": "HGhubK 1.0.2: 内置自动更新(设置→更新，原站/镜像自动切换)+ 手势(单击暂停/双击纯净)+屏蔽登录+整部批量缓存",
   "android": {
     "arm64": "https://github.com/simple0907/HGhubK-releases/releases/download/v1.0.2/HGhubK-1.0.2-arm64-release.apk"
   },

@@ -1,9 +1,1 @@
-{
-  "version": "1.1.3",
-  "published_at": "2026-11-15",
-  "notes": "本次更新：\n· 镜像测速并缓存：设置页直接显示最快镜像，过期自动后台重测\n· 更新下载显示进度与速度；校验不过自动换源重下，全部失败可反馈\n· 首页顶部新增 全部 / 连载 / 完结 分类（半透明、纯净模式隐藏）\n· 去掉顶部搜索按钮；静音/锁定移到左下侧边（剧名上方），解锁仅锁定态显示\n· 倍速改为齿轮滚轮：按住按钮上下滑动调节、松手生效\n· 纯净模式底部只读进度条；进度条原位、快进快退仅滑动\n· 离线缓存管理：按剧分组、点剧进详情，显示已完结/连载 + 已缓存 x/y、下载进度速度、失败可重试、单集/整部删除；播放页与「我的」页新增缓存入口",
-  "android": {
-    "arm64": "https://github.com/simple0907/HGhubK-releases/releases/download/v1.1.3/HGhubK-1.1.3-arm64-release.apk"
-  },
-  "sha256": "18ef0a5c728bf039e7f0f7d4ec708fed3a998589bfc8a8dc87d796b44fbf299e"
-}
+{"version":"1.1.3","published_at":"2026-11-15","notes":"本次更新：\n· 镜像测速并缓存：设置页直接显示最快镜像，过期自动后台重测\n· 更新下载显示进度与速度；校验不过自动换源重下，全部失败可反馈\n· 首页顶部新增 全部 / 连载 / 完结 分类（半透明、纯净模式隐藏）\n· 去掉顶部搜索按钮；静音/锁定移到左下侧边（剧名上方），解锁仅锁定态显示\n· 倍速改为齿轮滚轮：按住按钮上下滑动调节、松手生效\n· 纯净模式底部只读进度条；进度条原位、快进快退仅滑动\n· 离线缓存管理：按剧分组、点剧进详情，显示已完结/连载 + 已缓存 x/y、下载进度速度、失败可重试、单集/整部删除；播放页与「我的」页新增缓存入口","android":{"arm64":"https://github.com/simple0907/HGhubK-releases/releases/download/v1.1.3/HGhubK-1.1.3-arm64-release.apk"},"sha256":"18ef0a5c728bf039e7f0f7d4ec708fed3a998589bfc8a8dc87d796b44fbf299e","sig":"cPRs+32js5ycfPO36INXTSXrToFw3aH1RJmtSt4bqYIGNx4KfRvxKbgHHhiriepRRd1suuHzOY+ARR7rkPZxCg=="}
